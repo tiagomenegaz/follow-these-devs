@@ -21,5 +21,9 @@ Anyone here to show =/
 ## Contribute
   Contributions are always welcome!
   ```
-  Give examples
+  git clone https://github.com/tmmgarcia/follow-this-guys.git
+  cd follow-this-guys/
+  git checkout -b your-suggestion
+  git commit -am "what-language - guys-name"
+  git push
   ```
