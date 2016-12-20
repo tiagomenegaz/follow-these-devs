@@ -18,6 +18,7 @@
 
 ## Rails
 - Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
+- Sam Saffron: [Github](https://github.com/SamSaffron), [Blog](https://samsaffron.com/)
 
 ## Contribute
   Contributions are always welcome!
