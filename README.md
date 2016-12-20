@@ -5,11 +5,15 @@
   
 ## Contents
 
+- [C](#c)
 - [Javascript](#javascript)
 - [PHP](#php)
 - [Python](#phyton)
 - [Rails](#rails)
 - [Contribute](#contribute)
+
+## C
+- Pedro Penna: [Github](https://github.com/ppenna)
 
 ## Javascript
 - Daniel Schmitz: [Github](https://github.com/danielschmitz)
