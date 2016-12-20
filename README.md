@@ -32,6 +32,7 @@
 ## Ruby
 - Avid Grimm: [Github](https://github.com/avdi), [Blog](http://www.virtuouscode.com/)
 - Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
+- Rafael França: [Github](https://github.com/rafaelfranca)
 - Sam Saffron: [Github](https://github.com/SamSaffron), [Blog](https://samsaffron.com/)
 
 ## Contribute
