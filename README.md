@@ -41,6 +41,6 @@
   cd follow-this-guys/
   git checkout -b your-suggestion
   git commit -am "what-language - guys-name"
-  git push
+  git push origin your-suggestion   
   # make a pull request
   ```
