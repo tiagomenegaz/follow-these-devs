@@ -19,6 +19,7 @@
 - Vinicius Reis: [Github](https://github.com/vinicius73),
 
 ## Rails
+- Avid Grimm: [Github](https://github.com/avdi), [Blog](http://www.virtuouscode.com/)
 - Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
 - Sam Saffron: [Github](https://github.com/SamSaffron), [Blog](https://samsaffron.com/)
 
