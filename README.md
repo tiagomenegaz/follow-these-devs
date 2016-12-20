@@ -4,8 +4,12 @@
   
 ## Contents
 
+- [PHP](#php)
 - [Rails](#rails)
 - [Contribute](#contribute)
+
+## PHP
+- Vinicius Reis: [Github](https://github.com/vinicius73),
 
 ## Rails
 - Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
