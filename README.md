@@ -20,6 +20,8 @@
 - Daniel Shiffman: [Github](https://github.com/shiffman), [Blog](http://shiffman.net/), 
     [YouTube](https://www.youtube.com/user/shiffman)
 - Ionică Bizău: [Github](https://github.com/IonicaBizau), [Blog](https://ionicabizau.net/)
+- Rodrigo Branas: [Github](https://github.com/rodrigobranas), [Twitter](https://twitter.com/rodrigobranas),
+    [YouTube](https://www.youtube.com/rodrigobranas)
 
 ## PHP
 - Vinicius Reis: [Github](https://github.com/vinicius73),
