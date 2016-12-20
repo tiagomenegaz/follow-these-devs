@@ -4,19 +4,11 @@
   
 ## Contents
 
-- [Contribute](#contribute)
-- [Java](#java)
-- [Android](#android)
 - [Rails](#rails)
-
-## Java
-Anyone here to show =/
-
-## Android
-Anyone here to show =/
+- [Contribute](#contribute)
 
 ## Rails
-Anyone here to show =/
+- Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
 
 ## Contribute
   Contributions are always welcome!
@@ -26,4 +18,5 @@ Anyone here to show =/
   git checkout -b your-suggestion
   git commit -am "what-language - guys-name"
   git push
+  # make a pull request
   ```
