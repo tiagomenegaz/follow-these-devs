@@ -12,6 +12,8 @@
 
 ## Javascript
 - Daniel Schmitz: [Github](https://github.com/danielschmitz)
+- Daniel Shiffman: [Github](https://github.com/shiffman), [Blog](http://shiffman.net/), 
+    [YouTube](https://www.youtube.com/user/shiffman)
 
 ## PHP
 - Vinicius Reis: [Github](https://github.com/vinicius73),
