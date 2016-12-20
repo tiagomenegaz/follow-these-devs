@@ -9,7 +9,7 @@
 - [Javascript](#javascript)
 - [PHP](#php)
 - [Python](#phyton)
-- [Rails](#rails)
+- [Ruby](#ruby)
 - [Contribute](#contribute)
 
 ## C
@@ -29,7 +29,7 @@
 ## Python
 - Siraj Raval: [Github](https://github.com/llSourcell), [YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/), [Facebook](https://www.facebook.com/sirajologyyy)
 
-## Rails
+## Ruby
 - Avid Grimm: [Github](https://github.com/avdi), [Blog](http://www.virtuouscode.com/)
 - Leonardo Scorza: [Github](https://github.com/leonardoscorza), [Blog](http://onebitcode.com)
 - Sam Saffron: [Github](https://github.com/SamSaffron), [Blog](https://samsaffron.com/)
