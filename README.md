@@ -7,6 +7,7 @@
 
 - [Javascript](#javascript)
 - [PHP](#php)
+- [Python](#phyton)
 - [Rails](#rails)
 - [Contribute](#contribute)
 
@@ -18,6 +19,9 @@
 
 ## PHP
 - Vinicius Reis: [Github](https://github.com/vinicius73),
+
+## Python
+- Siraj Raval: [Github](https://github.com/llSourcell), [YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/), [Facebook](https://www.facebook.com/sirajologyyy)
 
 ## Rails
 - Avid Grimm: [Github](https://github.com/avdi), [Blog](http://www.virtuouscode.com/)
