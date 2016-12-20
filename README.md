@@ -25,6 +25,7 @@
 
 ## PHP
 - Graham Campbell: [Github](https://github.com/GrahamCampbell)
+- Fabien Potencier: [Github](https://github.com/fabpot)
 - Vinicius Reis: [Github](https://github.com/vinicius73),
 
 ## Python
