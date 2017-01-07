@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [Java](#java)
 - [Javascript](#javascript)
 - [PHP](#php)
 - [Python](#phyton)
@@ -14,6 +15,9 @@
 
 ## C
 - Pedro Penna: [Github](https://github.com/ppenna)
+
+## Java
+- Loiane Groner: [Github](https://github.com/loiane), [YouTube](https://www.youtube.com/user/Loianeg/about)
 
 ## Javascript
 - Daniel Schmitz: [Github](https://github.com/danielschmitz)
