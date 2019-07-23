@@ -44,12 +44,12 @@
 - Tiago  Guedes: [Github](https://github.com/tiagopog)
 
 ## Contribute
-  Contributions are always welcome!
-  ```
-  git clone git@github.com:tmmgarcia/follow-this-guys.git
-  cd follow-this-guys/
-  git checkout -b your-suggestion
-  git commit -am "what-language - guys-name"
-  git push origin your-suggestion   
-  # make a pull request
-  ```
+Contributions are always welcome!
+```
+git clone git@github.com:tmmgarcia/follow-these-devs.git
+cd follow-these-devs/
+git checkout -b your-suggestion
+git commit -am "what-language - devs-name"
+git push origin your-suggestion
+# make a pull request
+```
