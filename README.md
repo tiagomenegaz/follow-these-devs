@@ -1,6 +1,6 @@
 # Follow This Guys - FTG
   Good programmers are spread around the internet and they aren't easily founded.
-  I always wanted improve on my programming skills and I think a good way to do get better at coding is following someone who codes better than you. So I've created this list to organize devs who share remarkable programming practices/skills on the internet.
+  I always wanted improve on my programming skills and I think a good way to get better at coding is following someone who shares knowledge on line. So I've created this list to organize devs who share remarkable programming practices/skills on the internet.
 
 
 ## Contents
